@@ -12,6 +12,3 @@ class Solution:
                 error=y*y-x
         return round(y)     
 
-solution=Solution()
-result=solution.mySqrt(8)
-print(result)
