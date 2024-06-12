@@ -15,4 +15,3 @@ class Solution:
 solution=Solution()
 result=solution.mySqrt(8)
 print(result)
-print(8**0.5)
